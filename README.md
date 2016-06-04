@@ -1,6 +1,6 @@
 # emacs-nepali-romanized
 
-Emacs input method for Nepali with romanized Nepali keyboard layout of Madan Puraskar Pustakalaya, Nepal (or now, of [Language Technology Kendra](http://ltk.org.np/keyboard_layouts)).
+Emacs input method for Nepali with romanized Nepali keyboard layout of Madan Puraskar Pustakalaya, Nepal (or now, of [Language Technology Kendra](http://ltk.org.np/keyboard_layouts.php)).
 
 Load `nepali-romanized.el` file from your `.emacs` file. Then you should be ready to go.
 
