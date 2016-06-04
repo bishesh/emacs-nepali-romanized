@@ -1,4 +1,4 @@
-;;; nepali-unicode.el --- nepali unicode keyboard layout for devnagari input method in Emacs
+;;; nepali-romanized.el --- nepali romanized keyboard layout for devnagari input method in Emacs
 
 ;; Copyright 2016 Bishesh Khanal
 
@@ -23,8 +23,8 @@
 
 (require 'quail)
 (quail-define-package
- "nepali-unicode" "NEPali" "NEP" t
- "Bishesh input method to use nepali unicode layout conversion sequence he wants"
+ "nepali-romanized" "NEPali" "NEP" t
+ "Input method to use nepali romanized layout of Madan Puraskar Pustakalaya (or now of Language Technology Kendra), Nepal."
  nil t nil nil nil nil nil nil nil nil t)
 
 (quail-define-rules
@@ -125,5 +125,5 @@
  ("~" "\u093C") ; ~ -> ़
  )
 
-(provide 'nepali-unicode)
-;;; nepali-unicode.el ends here
+(provide 'nepali-romanized)
+;;; nepali-romanized.el ends here
