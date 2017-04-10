@@ -18,6 +18,7 @@
 
 ;;; Commentary:
 ;; Nepali keyboard input with unicode.
+;; The keyboard mapping with the unicode is adapted from a Javascript library nepalify developed by Suvash Thapaliya, which can be found at: https://github.com/suvash/nepalify/blob/master/lib/nepalify.js
 ;; Requires quail
 ;;; Code:
 
