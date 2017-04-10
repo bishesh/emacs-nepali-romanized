@@ -1,4 +1,5 @@
 ;;; nepali-romanized.el --- nepali romanized keyboard layout for devnagari input method in Emacs
+;; Readme and more details at: https://github.com/bishesh/emacs-nepali-romanized
 
 ;; Copyright 2016 Bishesh Khanal
 
